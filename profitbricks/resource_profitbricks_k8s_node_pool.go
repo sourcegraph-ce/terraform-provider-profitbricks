@@ -3,7 +3,7 @@ package profitbricks
 import (
 	"encoding/json"
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"time"
 
 	"github.com/hashicorp/terraform-plugin-sdk/helper/schema"
