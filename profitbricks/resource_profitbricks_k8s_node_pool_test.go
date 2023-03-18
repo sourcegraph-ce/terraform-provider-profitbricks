@@ -2,7 +2,7 @@ package profitbricks
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"testing"
 
 	"github.com/hashicorp/terraform-plugin-sdk/helper/resource"
